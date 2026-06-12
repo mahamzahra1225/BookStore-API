@@ -1,5 +1,3 @@
-Mahad Ali, aapke Bookstore API project ke liye main bilkul usi style mein description aur documentation likh deta hoon jaisa aapne pichle Java project ke liye share kiya hai. Aap ise apni `README.md` file mein use kar sakte hain.
-
 ### Project Description
 
 This is a Node.js-based RESTful API designed to manage a bookstore inventory efficiently. It provides a robust backend architecture for performing CRUD operations, allowing users to create, read, update, and delete book entries, ensuring data integrity and seamless API interactions.
